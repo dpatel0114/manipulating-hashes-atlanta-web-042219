@@ -8,8 +8,8 @@ def second_challenge
   }
 
   #code your solution here!
-  binding.pry
-  groceries.values
+  # binding.pry
+  groceries.values.fltten
  
 
 end
